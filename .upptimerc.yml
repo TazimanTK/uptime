@@ -3,11 +3,9 @@ repo: uptime
 
 sites:
   - name: Main Page
-    url: https://taj.f5.si
-  - name: Invidious
-    url: https://invidious.taj.f5.si
-  - name: Writening
-    url: https://writening.net/page?ZctzpP
+    url: https://taj.f5.si/#
+  - name: Uptime
+    url: https://uptime.f5.si
     port: 80
     check: "tcp-ping"
     ipv6: false
