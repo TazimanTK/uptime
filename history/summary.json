@@ -1,68 +1,42 @@
 [
   {
     "name": "Main Page",
-    "url": "https://taj.f5.si",
+    "url": "https://taj.f5.si/#",
     "icon": "https://icons.duckduckgo.com/ip3/taj.f5.si.ico",
     "slug": "main-page",
+    "status": "up",
+    "uptime": "61.68%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "61.68%",
+    "uptimeMonth": "61.68%",
+    "uptimeYear": "61.68%",
+    "time": 1336,
+    "timeDay": 744,
+    "timeWeek": 1336,
+    "timeMonth": 1336,
+    "timeYear": 1336,
+    "dailyMinutesDown": {
+      "2026-03-24": 9,
+      "2026-03-23": 1018,
+      "2026-03-22": 127
+    }
+  },
+  {
+    "name": "Uptime",
+    "url": "https://uptime.f5.si",
+    "icon": "https://icons.duckduckgo.com/ip3/uptime.f5.si.ico",
+    "slug": "uptime",
     "status": "down",
-    "uptime": "61.87%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.87%",
-    "uptimeMonth": "61.87%",
-    "uptimeYear": "61.87%",
-    "time": 1524,
-    "timeDay": 823,
-    "timeWeek": 1524,
-    "timeMonth": 1524,
-    "timeYear": 1524,
-    "dailyMinutesDown": {
-      "2026-03-24": 0,
-      "2026-03-23": 1018,
-      "2026-03-22": 127
-    }
-  },
-  {
-    "name": "Invidious",
-    "url": "https://invidious.taj.f5.si",
-    "icon": "https://icons.duckduckgo.com/ip3/invidious.taj.f5.si.ico",
-    "slug": "invidious",
-    "status": "down",
-    "uptime": "51.25%",
-    "uptimeDay": "77.84%",
-    "uptimeWeek": "51.25%",
-    "uptimeMonth": "51.25%",
-    "uptimeYear": "51.25%",
-    "time": 1548,
-    "timeDay": 1460,
-    "timeWeek": 1548,
-    "timeMonth": 1548,
-    "timeYear": 1548,
-    "dailyMinutesDown": {
-      "2026-03-24": 319,
-      "2026-03-23": 1018,
-      "2026-03-22": 127
-    }
-  },
-  {
-    "name": "Writening",
-    "url": "https://writening.net/page?ZctzpP",
-    "icon": "https://icons.duckduckgo.com/ip3/writening.net.ico",
-    "slug": "writening",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-03-24": 1383,
-      "2026-03-23": 1440,
-      "2026-03-22": 179
-    }
+    "dailyMinutesDown": {}
   }
 ]
