@@ -4,18 +4,19 @@
     "url": "https://taj.f5.si",
     "icon": "https://icons.duckduckgo.com/ip3/taj.f5.si.ico",
     "slug": "main-page",
-    "status": "up",
-    "uptime": "57.34%",
+    "status": "down",
+    "uptime": "61.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.34%",
-    "uptimeMonth": "57.34%",
-    "uptimeYear": "57.34%",
-    "time": 1771,
-    "timeDay": 862,
-    "timeWeek": 1771,
-    "timeMonth": 1771,
-    "timeYear": 1771,
+    "uptimeWeek": "61.87%",
+    "uptimeMonth": "61.87%",
+    "uptimeYear": "61.87%",
+    "time": 1524,
+    "timeDay": 823,
+    "timeWeek": 1524,
+    "timeMonth": 1524,
+    "timeYear": 1524,
     "dailyMinutesDown": {
+      "2026-03-24": 0,
       "2026-03-23": 1018,
       "2026-03-22": 127
     }
@@ -26,17 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/invidious.taj.f5.si.ico",
     "slug": "invidious",
     "status": "down",
-    "uptime": "57.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "57.35%",
-    "uptimeMonth": "57.35%",
-    "uptimeYear": "57.35%",
+    "uptime": "51.25%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "51.25%",
+    "uptimeMonth": "51.25%",
+    "uptimeYear": "51.25%",
     "time": 1548,
     "timeDay": 1460,
     "timeWeek": 1548,
     "timeMonth": 1548,
     "timeYear": 1548,
     "dailyMinutesDown": {
+      "2026-03-24": 319,
       "2026-03-23": 1018,
       "2026-03-22": 127
     }
@@ -58,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 1064,
+      "2026-03-24": 1383,
       "2026-03-23": 1440,
       "2026-03-22": 179
     }
