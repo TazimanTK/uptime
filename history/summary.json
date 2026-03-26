@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/taj.f5.si.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "65.83%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "65.83%",
-    "uptimeMonth": "65.83%",
-    "uptimeYear": "65.83%",
-    "time": 1240,
-    "timeDay": 709,
-    "timeWeek": 1240,
-    "timeMonth": 1240,
-    "timeYear": 1240,
+    "uptime": "76.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "76.21%",
+    "uptimeMonth": "76.21%",
+    "uptimeYear": "76.21%",
+    "time": 1232,
+    "timeDay": 1186,
+    "timeWeek": 1232,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2026-03-24": 9,
       "2026-03-23": 1018,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-25": 318,
+      "2026-03-26": 353,
+      "2026-03-25": 1440,
       "2026-03-24": 47
     }
   }
