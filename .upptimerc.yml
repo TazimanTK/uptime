@@ -2,10 +2,18 @@ owner: TazimanTK
 repo: uptime
 
 sites:
-  - name: Main Page
-    url: https://taj.f5.si/#
+  - name: MainPage
+    url: https://taj.f5.si/
   - name: Uptime
-    url: https://uptime.f5.si
+    url: https://uptime.taj.f5.si/
+  - name: Invidious
+    url: https://invidious.taj.f5.si/
+  - name: InvidiousInstances
+    url: https://invidious-instances.taj.f5.si/
+  - name: Piped
+    url: https://piped.taj.f5.si/
+  - name: CloudTube
+    url: https://cloudtube.taj.f5.si/
     port: 80
     check: "tcp-ping"
     ipv6: false
