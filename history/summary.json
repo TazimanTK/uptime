@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/taj.f5.si.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "81.39%",
+    "uptime": "81.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.39%",
-    "uptimeMonth": "81.39%",
-    "uptimeYear": "81.39%",
+    "uptimeWeek": "81.66%",
+    "uptimeMonth": "81.66%",
+    "uptimeYear": "81.66%",
     "time": 1588,
     "timeDay": 2832,
     "timeWeek": 1588,
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.taj.f5.si.ico",
     "slug": "uptime",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "2.78%",
+    "uptimeDay": "6.33%",
+    "uptimeWeek": "2.78%",
+    "uptimeMonth": "2.78%",
+    "uptimeYear": "2.78%",
     "time": 181,
     "timeDay": 181,
     "timeWeek": 181,
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-27": 0
+      "2026-03-27": 91
     }
   }
 ]
