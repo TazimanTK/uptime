@@ -14,6 +14,8 @@ sites:
     url: https://piped.taj.f5.si/
   - name: CloudTube
     url: https://cloudtube.taj.f5.si/
+  - name: LibreX
+    url: https://librex.taj.f5.si/
     port: 80
     check: "tcp-ping"
     ipv6: false
