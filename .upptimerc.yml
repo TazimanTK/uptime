@@ -16,6 +16,10 @@ sites:
     url: https://cloudtube.taj.f5.si/
   - name: LibreX
     url: https://librex.taj.f5.si/
+  - name: Cobalt
+    url: https://cobalt.taj.f5.si/
+  - name: Farside
+    url: https://farside.tazimantk.mydns.jp/
     port: 80
     check: "tcp-ping"
     ipv6: false
