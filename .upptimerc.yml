@@ -3,7 +3,7 @@ repo: uptime
 
 sites:
   - name: MainPage
-    url: https://taj.f5.si/
+    url: https://tazimantk.freedynamicdns.org/
   - name: Uptime
     url: https://uptime.taj.f5.si/
   - name: Invidious
